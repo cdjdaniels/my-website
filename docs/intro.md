@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # About Me
 
-![Courtney Daniels](/img/IMG_6374.jpeg)
+import headshot from '/img/img_6374.jpg';
+
+<img src={headshot} alt="Courtney Daniels headshot" style={{width: 50%}} />
 
 As a science and technical writer and editor with 10 years' experience, I firmly believe that even the most highly technical content can be understandable, accessible, and engaging. Using simple sentence structure and plain English doesn't mean "dumbing it down." It's about communicating clearly! In fact, I believe the most complex topics require the simplest language, explanatory graphics, and clarifying examples. Not only does this approach make for engaging copy for native speakers, it will also open up your content to non-native speakers. 
 
