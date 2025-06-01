@@ -1,0 +1,28 @@
+{
+  "id": "content-writing-samples/renewable-energy",
+  "title": "Ramping Up Renewable Energy",
+  "description": "Offshore wind turbines",
+  "source": "@site/docs/content-writing-samples/renewable-energy.md",
+  "sourceDirName": "content-writing-samples",
+  "slug": "/content-writing-samples/renewable-energy",
+  "permalink": "/my-website/docs/content-writing-samples/renewable-energy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/cdjdaniels/my-website/docs/content-writing-samples/renewable-energy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "image": "/img/wind-energy-turbines.jpg"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ocean Myths",
+    "permalink": "/my-website/docs/content-writing-samples/ocean-myths"
+  },
+  "next": {
+    "title": "Latitude and Longitude",
+    "permalink": "/my-website/docs/content-writing-samples/latitude-and-longitude"
+  }
+}

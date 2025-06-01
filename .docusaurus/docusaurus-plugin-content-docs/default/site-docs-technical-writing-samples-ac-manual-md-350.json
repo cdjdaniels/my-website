@@ -1,0 +1,23 @@
+{
+  "id": "technical-writing-samples/AC manual",
+  "title": "Portable Air Conditioner Manual",
+  "description": "I updated this manual for a portable air conditioner unit. I've anonymized or removed the product-specific information to create a generic version of the manual.",
+  "source": "@site/docs/technical-writing-samples/AC manual.md",
+  "sourceDirName": "technical-writing-samples",
+  "slug": "/technical-writing-samples/AC manual",
+  "permalink": "/my-website/docs/technical-writing-samples/AC manual",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/cdjdaniels/my-website/docs/technical-writing-samples/AC manual.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Inclusive Language Guidelines",
+    "permalink": "/my-website/docs/technical-writing-samples/inclusivity"
+  }
+}

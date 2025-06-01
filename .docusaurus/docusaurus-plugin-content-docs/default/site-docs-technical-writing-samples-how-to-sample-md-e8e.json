@@ -1,0 +1,27 @@
+{
+  "id": "technical-writing-samples/how-to-sample",
+  "title": "How to Convert a Draft Report to Final Format",
+  "description": "Note: Much of my work is property of the government and I cannot link to or include it in my portfolio. I have taken a real SOP that I wrote for my fellow editors and genericized it here.",
+  "source": "@site/docs/technical-writing-samples/how-to-sample.md",
+  "sourceDirName": "technical-writing-samples",
+  "slug": "/technical-writing-samples/how-to-sample",
+  "permalink": "/my-website/docs/technical-writing-samples/how-to-sample",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/cdjdaniels/my-website/docs/technical-writing-samples/how-to-sample.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical Writing Samples",
+    "permalink": "/my-website/docs/category/technical-writing-samples"
+  },
+  "next": {
+    "title": "Guitar App Manual",
+    "permalink": "/my-website/docs/technical-writing-samples/manual-sample"
+  }
+}

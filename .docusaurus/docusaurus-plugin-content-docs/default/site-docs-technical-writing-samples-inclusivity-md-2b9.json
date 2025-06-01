@@ -1,0 +1,27 @@
+{
+  "id": "technical-writing-samples/inclusivity",
+  "title": "Inclusive Language Guidelines",
+  "description": "I'm passionate about inclusivity and accessibility. During my last job, I wrote a detailed set of guidelines to increase our use of inclusive language. Language that does its best to make everyone feel included and valued. I provided trainings to subject matter experts and peers to help everyone understand the guidelines. But I stressed during trainings, and I'll stress again here, that these are not comprehensive or universal. Inclusive language is evolving quickly, and people will always have different opinions on these subjects anyway. My hope is that people will begin to think about their language choices more carefully and to give them a framework for the questions to ask when deciding the words to use. If I boiled everything in the guidelines down to two points, it would be these:",
+  "source": "@site/docs/technical-writing-samples/inclusivity.md",
+  "sourceDirName": "technical-writing-samples",
+  "slug": "/technical-writing-samples/inclusivity",
+  "permalink": "/my-website/docs/technical-writing-samples/inclusivity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/cdjdaniels/my-website/docs/technical-writing-samples/inclusivity.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guitar App Manual",
+    "permalink": "/my-website/docs/technical-writing-samples/manual-sample"
+  },
+  "next": {
+    "title": "Portable Air Conditioner Manual",
+    "permalink": "/my-website/docs/technical-writing-samples/AC manual"
+  }
+}

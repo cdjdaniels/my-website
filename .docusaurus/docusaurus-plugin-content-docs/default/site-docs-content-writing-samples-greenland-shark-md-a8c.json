@@ -1,0 +1,28 @@
+{
+  "id": "content-writing-samples/greenland-shark",
+  "title": "How Long do Greenland Sharks Live?",
+  "description": "Greenland shark",
+  "source": "@site/docs/content-writing-samples/greenland-shark.md",
+  "sourceDirName": "content-writing-samples",
+  "slug": "/content-writing-samples/greenland-shark",
+  "permalink": "/my-website/docs/content-writing-samples/greenland-shark",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/cdjdaniels/my-website/docs/content-writing-samples/greenland-shark.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "image": "/img/aug16-hires.jpg"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Latitude and Longitude",
+    "permalink": "/my-website/docs/content-writing-samples/latitude-and-longitude"
+  },
+  "next": {
+    "title": "Three Datums",
+    "permalink": "/my-website/docs/content-writing-samples/three-datums"
+  }
+}
