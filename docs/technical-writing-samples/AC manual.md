@@ -8,4 +8,4 @@ I updated this manual for a portable air conditioner unit. I've anonymized or re
 
 *Note: Screenshots were removed to protect the product name and information.*  
 
-[Download the pdf](/static/img/Portable%20Air%20Conditioner%20User%20Manual.pdf)
+[Download the pdf](/static/img/ac-user-manual.pdf)
