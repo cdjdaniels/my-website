@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/space.svg').default,
     description: (
       <>
-        With 10+ years' experience as a technical writer and editor, I've specialized in highly complec content,
+        With 10+ years' experience as a technical writer and editor, I've specialized in highly complex content,
         from pharmacology to rocket science.
       </>
     ),
